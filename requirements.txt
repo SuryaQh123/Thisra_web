@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+statsmodels
+scikit-learn
+prophet
+tensorflow==2.15
